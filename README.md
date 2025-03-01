@@ -1,5 +1,4 @@
 # Birthday-card
-Birthday Template
 <!DOCTYPE html>
 <html lang="en">
 <head>
